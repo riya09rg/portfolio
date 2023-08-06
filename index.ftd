@@ -19,8 +19,7 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
-header-item1: Home
+logoURL: /portfolio
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
@@ -42,7 +41,7 @@ cta-item2-link: /YOUR_REPOSITORY_NAME/resume
 
 -- toast.stack:
 title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/riya09rg
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
